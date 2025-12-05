@@ -1,2 +1,2 @@
 # python-automation
-Python automation scripts and coursework from my Computer Systems Technician program. Includes router configuration backups, modification scripts, Paramiko/Netmiko automation, and structured lab exercises demonstrating file handling, functions, and network device interaction.
+This work sample links to a mini assignment I completed using Python. The focus of this assignment was organization, documentation, and submitting a completed project. A brief screenshot is included so the work can be viewed easily without needing to understand the code.
